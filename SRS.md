@@ -41,3 +41,5 @@
 ## 3. Системные требования <a name="3"></a>
 
 ### 3.1 Функциональные требования <a name="3.1"></a>
+* [Модуль администратора](https://github.com/tahan3/Tahan-Cafe/tree/main/Mockups/admin).
+* [Модуль пользователя](https://github.com/tahan3/Tahan-Cafe/tree/main/Mockups/user).
