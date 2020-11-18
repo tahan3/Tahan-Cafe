@@ -106,7 +106,7 @@
 * [Отзывы](../Mockups/admin/reviews.PNG)
 
 ## 7 Диаграмма классов <a name="7"></a>
-[Диаграмма классов](https://github.com/tahan3/Tahan-Cafe/blob/main/Diagrams/class%20diagram.png)
+![Диаграмма классов](https://github.com/tahan3/Tahan-Cafe/blob/main/Diagrams/class%20diagram.png)
 
 ## 8 Диаграмма базы данных <a name="8"></a>
 ![Диаграмма базы данных](https://github.com/tahan3/Tahan-Cafe/blob/main/Diagrams/data%20base%20diagram.png)
