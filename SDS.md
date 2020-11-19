@@ -23,10 +23,12 @@
 9. [Описание архитектуры](#9)<br>
 10. [Описание сетевого взаимодействия](#10)<br>
 11. [Use cases](#11)<br>
-11.1 [User] (#11.1)<br>
-11.2 [Admin] (#11.2)<br>
-12. [Структура приложения] (#12)<br>
-13. [Диаграмма развертывания] (#13)<br>
+11.1 [User](#11.1)<br>
+11.2 [Admin](#11.2)<br>
+12. [Структура приложения](#12)<br>
+13. [Диаграмма развертывания](#13)<br>
+
+
 
 ## 1. Введение <a name="1"></a>
 
@@ -231,9 +233,14 @@
 ## 11 Use cases <a name="11"></a>
 
 ### 11.1 User <a name="11.1"></a>
+![use case User](https://github.com/tahan3/Tahan-Cafe/blob/main/Diagrams/use%20case%20user.png)
 
 ### 11.2 Admin <a name="11.2"></a>
+![use case Admin](https://github.com/tahan3/Tahan-Cafe/blob/main/Diagrams/use%20case%20admin.png)
 
 ## 12 Структура приложения <a name="12"></a>
+Приложения было написано на основе паттерна MVC. Исходя из этого есть 3 пакета: 
+![use case Admin](https://github.com/tahan3/Tahan-Cafe/blob/main/Diagrams/application%20structure.png)
 
 ## 13 Диаграмма развертывания <a name="13"></a>
+![Диаграмма развертывания](https://github.com/tahan3/Tahan-Cafe/blob/main/Diagrams/deployment%20diagram.png)
